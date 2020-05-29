@@ -2,7 +2,7 @@
 
 
 
-## ? how to get class_id from deepsort ?
+# ing... how to get class_id from deepsort ?
 
 
 
