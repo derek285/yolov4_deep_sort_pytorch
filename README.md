@@ -93,9 +93,6 @@ Then you can try [train.py](deep_sort/deep/train.py) to train your own parameter
 [demo.avi](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6)
 [demo2.avi](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6)
 
-![1.jpg](demo/1.jpg)
-![2.jpg](demo/2.jpg)
-
 
 ## References
 - paper: [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
