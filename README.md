@@ -3,7 +3,7 @@
 
 
 # ing... how to get class_id from deepsort ?
-
+## remember build your own libdarknet.so
 
 
 ## ref : https://github.com/ZQPei/deep_sort_pytorch
