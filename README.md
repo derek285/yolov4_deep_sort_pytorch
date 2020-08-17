@@ -36,7 +36,7 @@ If compiling failed, the simplist way is to **Upgrade your pytorch >= 1.1 and to
 
 4. Run demo
 ```
-usage: python yolov3_deepsort.py VIDEO_PATH
+usage: python tracker.py VIDEO_PATH
                                 [--help]
                                 [--frame_interval FRAME_INTERVAL]
                                 [--config_detection CONFIG_DETECTION]
