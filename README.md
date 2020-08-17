@@ -53,6 +53,12 @@ python3 tracker.py VIDEO_PATH
 # yolov4 + deepsort on webcam
 python3 tracker.py /dev/video0 --camera 0
 
+# todo
+```
+1. get class_id return
+2. fix depends on libdarknet.so
+```
+
 ## References
 - paper: [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 - code: [nwojke/deep_sort](https://github.com/nwojke/deep_sort)
