@@ -18,9 +18,12 @@ pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 git clone https://github.com/derek285/yolov4_deep_sort_pytorch.git
 ```
 
-2. Download YOLOv3 parameters
+2. Download YOLOv4 parameters
 ```
-wget yolov4.weights
+wget yolov4.weights and cfg
+//并且重命名为4.cfg 和 4.weights 这个hard code有点山寨了：detector/v4detector.py ：
+    configPath = "4.cfg"
+    weightPath = "4.weights"
 ```
 
 3. Download deepsort parameters ckpt.t7
